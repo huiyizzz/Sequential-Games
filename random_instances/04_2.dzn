@@ -1,0 +1,5 @@
+num = 4;
+cap = 6;
+refill = 5;
+fun = [7, 6, 4, 9];
+goal = 107;

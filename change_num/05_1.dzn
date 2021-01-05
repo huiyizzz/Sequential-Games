@@ -1,0 +1,5 @@
+num = 5;
+cap = 5;
+refill = 2;
+fun = [5, 4, 3, 2, 1];
+goal = 0;
